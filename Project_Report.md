@@ -38,7 +38,7 @@ The PCA analysis revealed the explained variance ratio for the principal compone
 **Visualization:**
 The 2D projection of the first two principal components shows the data distribution in the new feature space.
 
-![PCA 2D Projection](/C:/Users/Pc/.gemini/antigravity/brain/7f9abbe9-2a2f-4789-a547-dfe5f766cc5f/pca_projection.png)
+![PCA 2D Projection](pca_projection.png)
 
 ---
 
@@ -78,7 +78,7 @@ The mining process successfully identified association rules. The top rules by *
 **Visualization:**
 The bar chart below illustrates the top 10 rules ranked by Lift, highlighting the strongest product pairings.
 
-![Top Rules by Lift](/C:/Users/Pc/.gemini/antigravity/brain/7f9abbe9-2a2f-4789-a547-dfe5f766cc5f/arm_lift.png)
+![Top Rules by Lift](arm_lift.png)
 
 ## 4. Conclusion
 The project successfully implemented a full data mining pipeline. The GUI (Streamlit) provides an interactive layer over this logic, allowing users to upload datasets and dynamically view these audits and results. 
